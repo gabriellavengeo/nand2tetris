@@ -9,7 +9,7 @@ My solutions to the projects from [Nand2Tetris](http://nand2tetris.org/) startin
 * Project 3: Sequential Logic
 * Project 4: Machine Language
 * Project 5: Computer Architecture
-* Project 6: Assembler
+* Project 6: [Assembler](https://github.com/gabriellavengeo/nand2tetris-assembler)
 * Project 7: VM I: Stack Arithmetic [TODO]
 * Project 8: VM II: Program Control [TODO]
 * Project 9: High-Level Language [TODO]
